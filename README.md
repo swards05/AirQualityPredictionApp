@@ -87,7 +87,17 @@ You can download it directly using the 📥 Download CSV button inside the app.
 
 ## 🧩 Tech Stack
 Python 3.12+
+
 TensorFlow / Keras
+
 scikit-learn
+
 pandas, numpy, matplotlib
+
 Streamlit
+
+## 🌟 Acknowledgements
+
+Dataset: Air Quality UCI Dataset (UCI ML Repository)
+
+Libraries: TensorFlow, scikit-learn, Streamlit
