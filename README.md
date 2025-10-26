@@ -54,10 +54,12 @@ cd AirQualityPredictionApp
 ```
 
 ## 2️⃣ Install dependencies
-``` pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 ## 3️⃣ Run the Streamlit app
-``` streamlit run app.py
+```
+streamlit run app.py
 ```
 ## 📊 Example Input  
 
